@@ -1,0 +1,13 @@
+.logo h1{
+    text-align: center;
+    color: #1ca59e;
+    font-size:20px;
+    margin-bottom: 60px;
+}
+.logo h1 span{
+    color: #333;
+}
+.loginPage{
+    width:480px;
+    margin: 0 auto;
+}
